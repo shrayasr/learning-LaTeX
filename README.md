@@ -1,6 +1,10 @@
 # Learning LaTeX
 > This repo outlines my learning with LaTeX
 
+## Material
+
+[LaTeX TUTORIALS — A PRIMER | Indian TeX Users Group](https://www.tug.org/twg/mactex/tutorials/ltxprimer-1.0.pdf)
+
 ## Things learnt so far
 
 * `\documentclass{article}`
@@ -19,3 +23,6 @@
 * Length of dashes with `-` `--` and `---`
 * Inserting an actual `\` character with `\textbackslash`
 * Comments with `%`
+* Linebreaks with `\\` 
+  * Optional arguments to linebreak with `[]` so `\\[10pt]`
+* Aligning stuff with `\begin{center}` and `\begin{flushright}`
